@@ -23,27 +23,6 @@ React
 Vite
 HTML / CSS
 
-📁 Project Structure
-EnterpriseAIsearch/
-│
-├── backend/
-│   ├── src/main/java/com/enterprise/aisearch
-│   │   ├── controller
-│   │   ├── service
-│   │   ├── model
-│   │   └── EnterpriseAiSearchApplication.java
-│   └── pom.xml
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── App.jsx
-│   │   ├── App.css
-│   │   └── main.jsx
-│   └── package.json
-│
-└── README.md
-
 ⚙️ Prerequisites
 Make sure you have the following installed:
 Java 17 or later
