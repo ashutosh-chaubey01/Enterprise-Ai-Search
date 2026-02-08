@@ -1,0 +1,15 @@
+{
+    "configurations": [
+    
+        {
+            "type": "java",
+            "name": "Spring Boot-EnterpriseAIsearchApplication<EnterpriseAIsearch>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.EnterpriseAISearch.EnterpriseAIsearch.EnterpriseAIsearchApplication",
+            "projectName": "EnterpriseAIsearch",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
